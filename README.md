@@ -17,7 +17,7 @@ After app is initialized, try to make this request:
 ```curl
 curl http://localhost:8080/hello?name=Foo
 ``` 
-The answer body should be like:
+The answer body should be:
 ```json
 {
   "message": "Hello Foo!"
