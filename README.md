@@ -1,10 +1,10 @@
 # maven-dockerization
-Demo Spring Boot project using Docker, without Java or Maven installed
+Demo Spring Boot project using Docker, without Java or Maven installed.
 
 ## Requirements
 
-* Docker 20.10.12 or above
-* docker-compose 1.25.0
+* Docker 20.10.12 or above.
+* docker-compose 1.25.0 or above.
 
 ## Run this project
 
